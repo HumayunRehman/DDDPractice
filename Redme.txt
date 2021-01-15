@@ -1,1 +1,0 @@
-Prectice application for domain driven development 
